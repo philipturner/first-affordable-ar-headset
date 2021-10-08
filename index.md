@@ -1,6 +1,6 @@
 # Creating the World's First Affordable AR Headset Experience
 
-![Google Cardboard plus AR](/Google_Cardboard_plus_AR.webp)
+![Google Cardboard plus AR](/images/Google_Cardboard_plus_AR.webp)
 
 With the [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) app, I created the world's first AR headset experience that does not rely on expensive specialized hardware. Using Google Cardboard, a standard iPhone, and images acquired using the phone's camera, the app creates an AR headset experience by rendering the user's surroundings in VR. To do this, I combined energy-efficient techniques for real-time hand tracking and scene color reconstruction to create an immersive user experience.
 
@@ -34,7 +34,7 @@ In the mid-2020s, AR headset technology is expected to go mainstream through sma
 
 In late 2019, I was fascinated by the double pendulum, a physics simulation with chaotic motion. This motion is unpredictable yet fluid and aesthetically pleasing. I wondered what it would be like to experience a simulation with three or more pendulums, more complex behavior, and no damping (a form of friction that causes the simulation to slow down and eventually halt).
 
-Since my programming skills allowed me to bring a frictionless multi-pendulum simulation into reality, I challenged myself to create it. When researching the physics behind the simulation, I could not understand much of the math terminology and formulas. So, I went on an accelerated self-study course. I absorbed several years of math and physics course material in less than a month, using Khan Academy and a free electronic textbook. After this, I created an algorithm that simulates up to 100 pendulums without damping. A year later, right before starting work on AR MultiPendulum, I would publish the simulation [online](https://github.com/philipturner/multipendulum) for free.
+Since my programming skills allowed me to bring a frictionless multi-pendulum simulation into reality, I challenged myself to create it. When researching the physics behind the simulation, I could not understand much of the math terminology and formulas. So, I went on an accelerated self-study course. I absorbed several years of math and physics course material in less than a month, using Khan Academy and a free electronic textbook. After this, I created an algorithm that simulates up to 100 pendulums without damping. A year later, right before starting work on AR MultiPendulum, I would publish the simulation [online](https://philipturner.github.io/multipendulum) for free.
 
 After finishing my original multi-pendulum simulation, I began exploring 3D graphics. I downloaded a computer graphics textbook, read online software documentation, and followed a tutorial on OpenGL, a low-level framework for rendering 3D graphics. When experimenting with OpenGL in Xcode 10, I learned that my 9-year-old iMac could not run Xcode 11. Then, I spent a week learning [Swift](https://swift.org/about), Apple's modern programming language that replaced Objective-C, but Xcode 10 could not run the newest version of Swift. Frustrated, I bought a new Mac Mini to gain access to both Xcode 11 and Swift.
 
