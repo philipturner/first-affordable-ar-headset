@@ -12,18 +12,18 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
-    - name: AR MultiPendulum traffic
+    - name: First Affordable AR Headset traffic
       uses: sangonzal/repository-traffic-action@v0.1.4
       env:
         TRAFFIC_ACTION_TOKEN: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
     
-    - name: Store AR MultiPendulum traffic
+    - name: Store First Affordable AR Headset traffic
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
       with:
         source_file: './traffic/'
         destination_repo: ${{ secrets.TRAFFIC_DESTINATION }}
-        destination_folder: ${{ secrets.AR_MULTIPENDULUM_TRAFFIC_FOLDER }}
+        destination_folder: ${{ secrets.FIRST_AFFORDABLE_AR_HEADSET_TRAFFIC_FOLDER }}
         user_email: ${{ secrets.EMAIL }}
         user_name: ${{ secrets.USERNAME }}
