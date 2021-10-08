@@ -2,6 +2,8 @@
 
 With the [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) app, I created the world's first AR headset experience that does not rely on expensive specialized hardware. Using Google Cardboard, a standard iPhone, and images acquired using the phone's camera, the app creates an AR headset experience by rendering the user's surroundings in VR. To do this, I combined energy-efficient techniques for real-time hand tracking and scene color reconstruction to create an immersive user experience.
 
+![Google Cardboard plus AR](/Google_Cardboard_plus_AR.webp)
+
 ## Introduction
 
 Augmented reality (AR) is a technology that overlays virtual objects over the real world. For years, AR experiences have been available on smartphones through handheld AR apps. In 2016, Pokemon Go popularized AR, overlaying virtual characters on a map of the world. Beyond that, AR has only played a minor role in the average person's life, being used for a few occasional tasks such as measuring objects or testing out furniture ([Ayoubi, 2017](https://www.architectmagazine.com/technology/ikea-launches-augmented-reality-application_o)).
