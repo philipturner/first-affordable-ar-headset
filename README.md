@@ -1,6 +1,6 @@
 # Creating the World's First Affordable AR Headset Experience
 
-With the [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) app, I created the world's first AR headset experience that does not rely on expensive specialized hardware. Using Google Cardboard, a standard iPhone, and images acquired using the phone's camera, the app creates an AR headset experience by rendering the user's surroundings in VR. To do this, I combined energy-efficient techniques for real-time hand tracking and scene color reconstruction to create an immersive user experience.
+With the [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) app, I created the world's first AR headset experience that does not rely on expensive specialized hardware. Using Google Cardboard, a standard iPhone, and images acquired using the phone's camera, the app creates an AR headset experience by rendering the user's surroundings in VR. To do this, I combined energy-efficient techniques for real-time hand tracking and scene color reconstruction to create an immersive user experience.
 
 ## Introduction
 
