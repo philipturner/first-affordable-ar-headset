@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: AR MultiPendulum
 description: "The world's first affordable AR headset experience"
 author: Philip Turner
-include: ["LICENSE", "robots.txt", "meta"]
+include: ["LICENSE.txt"]
