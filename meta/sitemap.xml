@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://philipturner.github.io/index.html</loc>
+    <loc>https://philipturner.github.io/first-affordable-ar-headset/index.html</loc>
     <lastmod>2021-10-9</lastmod>
     <image:image>
-      <image:loc>https://philipturner.github.io/images/Google_Cardboard_plus_AR.webp</image:loc>
+      <image:loc>https://philipturner.github.io/first-affordable-ar-headset/images/Google_Cardboard_plus_AR.webp</image:loc>
       <image:caption>Google Cardboard plus AR</image:caption>
       <image:title>Google Cardboard plus AR</image:title>
-      <image:license>https://github.com/philipturner/first-affordable-ar-headset/raw/main/LICENSE</image:license>
+      <image:license>https://philipturner.github.io/first-affordable-ar-headset/license.txt</image:license>
     </image:image>
   </url>
 </urlset>
