@@ -1,4 +1,4 @@
-# Creating the World's First Affordable AR Headset Experience
+# Creating the First $5 AR Headset Experience
 
 ![Google Cardboard plus AR](/images/Google_Cardboard_plus_AR.webp)
 
