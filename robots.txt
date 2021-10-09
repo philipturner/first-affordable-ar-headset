@@ -1,1 +1,1 @@
-Sitemap: https://philipturner.github.io/first-affordable-ar-headset/robots.txt
+Sitemap: https://philipturner.github.io/first-affordable-ar-headset/meta/sitemap.xml
