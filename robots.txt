@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: https://philipturner.github.io/first-affordable-ar-headset/meta/sitemap.xml
